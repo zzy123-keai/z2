@@ -1,0 +1,96 @@
+*{
+	margin:0px;
+	padding:0px}
+.header{
+	height:50px;
+	width:100%;
+	background-color:#CF4646;}
+.header .hdtext{
+	width:1100px;
+	height:50px;
+	
+	margin:0px auto;}
+ul{
+	list-style:none;}
+a{
+	text-decoration:none;}
+body{
+	font-family:"微软雅黑 Light";}
+.header .logo{
+	float:left;
+	font-size:18px;
+	line-height:50px;}
+.header .nav{
+	float:right;}
+.header a{
+	color:#ccc;}
+.header a:hover{
+	color:#fff;}	
+.header .nav li{
+	float:left;}
+.header .nav a{
+	font-size:14px;
+	line-height:50px;
+	display:block;
+	padding:0 15px;}	
+	
+.banner{
+	height:380px;
+	width:100%;
+	background-color:#cf4646;
+	text-align:center;}
+.banner .logo{
+	margin-top:50px;
+	}
+.banner p{
+	font-size:22px;
+	color:#fff;
+	margin:10px auto 40px;}
+.banner .btm{
+	font-size:18px;
+	color:#eee;
+	border:1px #eee solid;
+	padding:10px 15px;}
+.banner .btm:hover{
+	color:#fff;
+	border-color:#fff}
+
+.main{
+	height:210px;
+	width:1100px;
+	margin:60px auto;}
+.main .box1{
+	float:left;
+	padding:0px 10px;
+	margin-top:30px;
+	}
+.main .box2{
+	float:right;
+	padding:0px 10px;
+	margin-top:30px;
+	}
+.main .box3{
+	float:left;
+	padding:0px 10px;
+	margin-top:30px;
+	}
+.main .box4{
+	float:left;
+	padding:0px 10px;
+	margin-top:30px;
+	margin-left:115px;
+	}
+.main p{
+	margin-top:10px;}
+.footer{
+	height:80px;
+	width:100%;
+}
+.footer .text{
+	text-align:center;
+	color:#999;}
+
+
+	
+	
+
